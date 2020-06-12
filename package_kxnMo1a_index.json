@@ -9,20 +9,21 @@
         "online": "http://makerlab.vn"
       },
       "platforms": [
+        
         {
           "name": "Ngoc Board",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.3",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true"
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true"
           },
-          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true",
-          "archiveFileName": "kxnardu-1.0.0.zip",
-          "checksum": "SHA-256:F76FF370FB18F6E59E7CFB7A11A9560FC8D7BAAF3CC0984C8025973952ECE20E",
-          "size": "838",
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.3.zip",
+          "checksum": "SHA-256:CCC474BE92A333C908FAF3113307DA01A81F04EB1A72E371B1581EF8E5A022FE",
+          "size": "906",
           "boards": [
-            {"name": "kxn Board 1"},
+            {"name": "Vietduino Uno"},
             {"name": "Arduboy DevKit"}
           ],
           "toolsDependencies": [
@@ -70,17 +71,17 @@
         {
           "name": "Ngoc Board",
           "architecture": "avr",
-          "version": "1.0.3",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true"
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true"
           },
-          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true",
-          "archiveFileName": "kxnardu-1.0.3.zip",
-          "checksum": "SHA-256:CCC474BE92A333C908FAF3113307DA01A81F04EB1A72E371B1581EF8E5A022FE",
-          "size": "906",
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.0.zip",
+          "checksum": "SHA-256:F76FF370FB18F6E59E7CFB7A11A9560FC8D7BAAF3CC0984C8025973952ECE20E",
+          "size": "838",
           "boards": [
-            {"name": "Vietduino Uno"},
+            {"name": "kxn Board 1"},
             {"name": "Arduboy DevKit"}
           ],
           "toolsDependencies": [
