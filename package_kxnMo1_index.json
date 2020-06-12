@@ -66,6 +66,35 @@
               "version": "6.0.1-arduino5"
             }
           ]
+        },
+        {
+          "name": "Ngoc Board",
+          "architecture": "avr",
+          "version": "1.0.3",
+          "category": "Contributed",
+          "help": {
+            "online": "http://janedeveloper.org/forum/myboard"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.3.zip",
+          "checksum": "SHA-256:D81C512FC9E106616821D675F5AB3747017EA72BABC3BB5F2594FB6B91E86DB4",
+          "size": "899",
+          "boards": [
+            {"name": "Vietduino Uno"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
         }
       ],
       "tools":[]
