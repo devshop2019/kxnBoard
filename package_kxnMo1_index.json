@@ -1,0 +1,76 @@
+{
+  "packages": [
+    {
+      "name": "kxnboard",
+      "maintainer": "kxn Developer",
+      "websiteURL": "https://hshop.vn",
+      "email": "kxn@gmail.com",
+      "help": {
+        "online": "http://makerlab.vn"
+      },
+      "platforms": [
+        {
+          "name": "Ngoc Board",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://makershop.vn"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.0.zip",
+          "checksum": "SHA-256:F76FF370FB18F6E59E7CFB7A11A9560FC8D7BAAF3CC0984C8025973952ECE20E",
+          "size": "838",
+          "boards": [
+            {"name": "kxn Board 1"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "kxn Board",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "http://janedeveloper.org/forum/myboard"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.1.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.1.zip",
+          "checksum": "SHA-256:C956A8E20590E10F9B65AF54CB6DE2CD63166349420CBA998C2AD35C7E84A62B",
+          "size": "775",
+          "boards": [
+            {"name": "Uno"},
+            {"name": "Vietduino Uno"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
+
+https://janedeveloper.github.io
