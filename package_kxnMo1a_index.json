@@ -16,14 +16,14 @@
           "version": "1.0.2",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true"
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-a-1.0.2.zip?raw=true"
           },
-          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true",
-          "archiveFileName": "kxnardu-1.0.3.zip",
-          "checksum": "SHA-256:CCC474BE92A333C908FAF3113307DA01A81F04EB1A72E371B1581EF8E5A022FE",
-          "size": "906",
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-a-1.0.2.zip?raw=true",
+          "archiveFileName": "kxnardu-a-1.0.2.zip",
+          "checksum": "SHA-256:25F8885850BCFC2F93B49048CB6F245C70AF5130B5B043096545B730260D5657",
+          "size": "892",
           "boards": [
-            {"name": "Vietduino Uno"},
+            {"name": "Vietuno 102a"},
             {"name": "Arduboy DevKit"}
           ],
           "toolsDependencies": [
