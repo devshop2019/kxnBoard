@@ -77,7 +77,7 @@
           },
           "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true",
           "archiveFileName": "kxnardu-1.0.3.zip",
-          "checksum": "SHA-256:D81C512FC9E106616821D675F5AB3747017EA72BABC3BB5F2594FB6B91E86DB4",
+          "checksum": "SHA-256:CCC474BE92A333C908FAF3113307DA01A81F04EB1A72E371B1581EF8E5A022FE",
           "size": "899",
           "boards": [
             {"name": "Vietduino Uno"},
