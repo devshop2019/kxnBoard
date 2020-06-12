@@ -67,7 +67,6 @@
             }
           ]
         },
-        ,
         {
           "name": "Ngoc Board",
           "architecture": "avr",
