@@ -1,0 +1,104 @@
+{
+  "packages": [
+    {
+      "name": "kxnboard",
+      "maintainer": "kxn Developer",
+      "websiteURL": "https://hshop.vn",
+      "email": "kxn@gmail.com",
+      "help": {
+        "online": "http://makerlab.vn"
+      },
+      "platforms": [
+        {
+          "name": "Ngoc Board",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://makershop.vn"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.0.zip",
+          "checksum": "SHA-256:F76FF370FB18F6E59E7CFB7A11A9560FC8D7BAAF3CC0984C8025973952ECE20E",
+          "size": "838",
+          "boards": [
+            {"name": "kxn Board 1"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "Ngoc Board",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "help": {
+            "online": "http://janedeveloper.org/forum/myboard"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.2.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.2.zip",
+          "checksum": "SHA-256:28BB4F94413311BC07CC95A721D94DB0B6BB21D3285898A90756C0304F284382",
+          "size": "876",
+          "boards": [
+            {"name": "Arduboy kxn"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        ,
+        {
+          "name": "Ngoc Board",
+          "architecture": "avr",
+          "version": "1.0.3",
+          "category": "Contributed",
+          "help": {
+            "online": "http://janedeveloper.org/forum/myboard"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.2.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.2.zip",
+          "checksum": "SHA-256:28BB4F94413311BC07CC95A721D94DB0B6BB21D3285898A90756C0304F284382",
+          "size": "876",
+          "boards": [
+            {"name": "Arduboy kxn"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
