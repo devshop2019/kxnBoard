@@ -78,7 +78,7 @@
           "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.3.zip?raw=true",
           "archiveFileName": "kxnardu-1.0.3.zip",
           "checksum": "SHA-256:CCC474BE92A333C908FAF3113307DA01A81F04EB1A72E371B1581EF8E5A022FE",
-          "size": "899",
+          "size": "906",
           "boards": [
             {"name": "Vietduino Uno"},
             {"name": "Arduboy DevKit"}
