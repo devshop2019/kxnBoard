@@ -95,6 +95,35 @@
               "version": "6.0.1-arduino5"
             }
           ]
+        },
+        {
+          "name": "Viet Board",
+          "architecture": "avr",
+          "version": "1.0.5",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/vduino-1.0.5.zip?raw=true"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/vduino-1.0.5.zip?raw=true",
+          "archiveFileName": "vduino-1.0.5.zip",
+          "checksum": "SHA-256:4418581801C97D216573BBA722937E8FD9C008D19F26F9F70183C01815813415",
+          "size": "611237",
+          "boards": [
+            {"name": "Vietduino Uno"},
+            {"name": "Vietduino Mega2560"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
         }
       ],
       "tools":[]
