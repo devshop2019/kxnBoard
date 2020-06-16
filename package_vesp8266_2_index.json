@@ -75,7 +75,7 @@
             "category":"ESP8266",
           "name":"Viet ESP8266",       
           "url":"https://github.com/devshop2019/kxnBoard/blob/master/vesp8266-1.0.2.zip?raw=true",
-          "checksum":"SHA-256:43A3E90D0657BE3F8C950C5726E9834B",
+          "checksum":"SHA-256:07060CA5AC90C784633F1C2597FA482BC48D4B6239C88C0753F2A1414617E83D",
           "help":{ "online":"https://hshop.vn/helpplatforms" },
           "version":"1.0.2",
           "architecture":"esp8266",
