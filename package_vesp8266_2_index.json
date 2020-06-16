@@ -70,6 +70,38 @@
             }
           ],
           "size":"22641477"
+        },
+        {
+            "category":"ESP8266",
+          "name":"Viet ESP8266",       
+          "url":"https://github.com/devshop2019/kxnBoard/blob/master/vesp8266-1.0.2.zip?raw=true",
+          "checksum":"SHA-256:43A3E90D0657BE3F8C950C5726E9834B",
+          "help":{ "online":"https://hshop.vn/helpplatforms" },
+          "version":"1.0.2",
+          "architecture":"esp8266",
+          "archiveFileName":"vesp8266-1.0.2.zip",
+          "boards":
+            [
+              {"name": "Vietduino ESP8266 1.0"}
+            ],
+          "toolsDependencies": [
+            {
+              "packager": "VietESP8266", 
+              "version": "0.4.8", 
+              "name": "esptool"
+            }, 
+            {
+              "packager": "VietESP8266", 
+              "version": "1.20.0-26-gb404fb9-2", 
+              "name": "xtensa-lx106-elf-gcc"
+            }, 
+            {
+              "packager": "VietESP8266", 
+              "version": "0.1.2", 
+              "name": "mkspiffs"
+            }
+          ],
+          "size":"22650191"
         } 
        ],
        
