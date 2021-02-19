@@ -67,6 +67,11 @@
               "packager": "VietESP8266", 
               "version": "0.1.2", 
               "name": "mkspiffs"
+            },
+            {
+              "packager": "VietESP8266",
+              "version": "3.7.2-post1",
+              "name": "python3"
             }
           ],
           "size":"22641477"
@@ -99,6 +104,11 @@
               "packager": "VietESP8266", 
               "version": "0.1.2", 
               "name": "mkspiffs"
+            },
+            {
+              "packager": "VietESP8266",
+              "version": "3.7.2-post1",
+              "name": "python3"
             }
           ],
           "size":"22650191"
