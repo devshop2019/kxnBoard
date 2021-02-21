@@ -11,7 +11,7 @@
           "category":"ESP8266",
           "name":"Viet ESP8266",       
           "url":"https://github.com/devshop2019/kxnBoard/blob/master/vesp8266-1.0.3.zip?raw=true",
-          "checksum":"SHA-256:384EE05A7F05996773ADEC7FCA8F80026A1911C05F22E2EEDFF2382461E5D799",
+          "checksum":"SHA-256:48D70E059ABCFE2AEB04A17D3D90F33A02C086DDAED9851E539C3F26C4D50A60",
           "help":{ "online":"https://hshop.vn/helpplatforms" },
           "version":"1.0.3",
           "architecture":"esp8266",
@@ -43,7 +43,7 @@
               "name": "python3"
             }
           ],
-          "size":"59140205"
+          "size":"41873960"
         } 
       ],
 
