@@ -1,0 +1,215 @@
+{
+  "packages": [
+    {
+      "name": "vietduinoboard",
+      "maintainer": "kxn Developer",
+      "websiteURL": "https://hshop.vn",
+      "email": "kxn@gmail.com",
+      "help": {
+        "online": "http://makerlab.vn"
+      },
+      "platforms": [
+        {
+          "name": "Viet Board",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.0.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.0.zip",
+          "checksum": "SHA-256:F76FF370FB18F6E59E7CFB7A11A9560FC8D7BAAF3CC0984C8025973952ECE20E",
+          "size": "838",
+          "boards": [
+            {"name": "kxn Board 1"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "vietduinoboard",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "vietduinoboard",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "Viet Board",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.2.zip?raw=true"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/kxnardu-1.0.2.zip?raw=true",
+          "archiveFileName": "kxnardu-1.0.2.zip",
+          "checksum": "SHA-256:28BB4F94413311BC07CC95A721D94DB0B6BB21D3285898A90756C0304F284382",
+          "size": "876",
+          "boards": [
+            {"name": "Arduboy kxn"},
+            {"name": "Arduboy DevKit"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "vietduinoboard",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "vietduinoboard",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "Viet Board",
+          "architecture": "avr",
+          "version": "1.0.4",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/vduino-1.0.4.zip?raw=true"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/vduino-1.0.4.zip?raw=true",
+          "archiveFileName": "vduino-1.0.4.zip",
+          "checksum": "SHA-256:B88CD2D091A2C1D754C4BB8A88C5A837E695F539FA546C96056B682C68DE014A",
+          "size": "5930596",
+          "boards": [
+            {"name": "Vietduino Uno"},
+            {"name": "Vietduino Mega2560"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "vietduinoboard",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "vietduinoboard",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "Viet Board",
+          "architecture": "avr",
+          "version": "1.0.5",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/devshop2019/kxnBoard/blob/master/vduino-1.0.5.zip?raw=true"
+          },
+          "url": "https://github.com/devshop2019/kxnBoard/blob/master/vduino-1.0.5.zip?raw=true",
+          "archiveFileName": "vduino-1.0.5.zip",
+          "checksum": "SHA-256:4418581801C97D216573BBA722937E8FD9C008D19F26F9F70183C01815813415",
+          "size": "611237",
+          "boards": [
+            {"name": "Vietduino Uno"},
+            {"name": "Vietduino Mega2560"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "vietduinoboard",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "vietduinoboard",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+        {
+                "name": "avrdude",
+                "version": "6.0.1-arduino5",
+                "systems": [{
+                        "size": "267095",
+                        "checksum": "SHA-256:23ea1341dbc117ec067f2eb1a498ad2bdd7d11fff0143c00b2e018c39804f6b4",
+                        "host": "arm-linux-gnueabihf",
+                        "archiveFileName": "avrdude-6.0.1-arduino5-armhf-pc-linux-gnu.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino5-armhf-pc-linux-gnu.tar.bz2"
+                    },
+                    {
+                        "size": "264894",
+                        "checksum": "SHA-256:41af8d3b0a586853c8317b4fb5163ca0db594a1870ddf680fd988c42166fc3e5",
+                        "host": "i386-apple-darwin11",
+                        "archiveFileName": "avrdude-6.0.1-arduino5-i386-apple-darwin11.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino5-i386-apple-darwin11.tar.bz2"
+                    },
+                    {
+                        "size": "292629",
+                        "checksum": "SHA-256:d826cca7383461f7e8adde686372cf900e9cb3afd639555cf2d6c645b283a476",
+                        "host": "x86_64-linux-gnu",
+                        "archiveFileName": "avrdude-6.0.1-arduino5-x86_64-pc-linux-gnu.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino5-x86_64-pc-linux-gnu.tar.bz2"
+                    },
+                    {
+                        "size": "283121",
+                        "checksum": "SHA-256:5933d66927bce46ababa9b68a8b7f1d53f68c4f3ff7a5ce4b85d7cf4e6c6bfee",
+                        "host": "i686-linux-gnu",
+                        "archiveFileName": "avrdude-6.0.1-arduino5-i686-pc-linux-gnu.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino5-i686-pc-linux-gnu.tar.bz2"
+                    },
+                    {
+                        "size": "241634",
+                        "checksum": "SHA-256:41f667f1f6a0ab8df46b4ffacd023176dcdef331d6db3b74bddd37d18cca0a44",
+                        "host": "i686-mingw32",
+                        "archiveFileName": "avrdude-6.0.1-arduino5-i686-mingw32.zip",
+                        "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino5-i686-mingw32.zip"
+                    }
+                ]
+            },
+            {
+                "name": "avr-gcc",
+                "version": "4.8.1-arduino5",
+                "systems": [{
+                        "size": "24403768",
+                        "checksum": "SHA-256:c8ffcd2db7a651b48ab4ea19db4b34fbae3e7f0210a0f294592af2bdabf2154b",
+                        "host": "arm-linux-gnueabihf",
+                        "archiveFileName": "avr-gcc-4.8.1-arduino5-armhf-pc-linux-gnu.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-armhf-pc-linux-gnu.tar.bz2"
+                    },
+                    {
+                        "size": "24437400",
+                        "checksum": "SHA-256:111b3ef00d737d069eb237a8933406cbb928e4698689e24663cffef07688a901",
+                        "host": "i386-apple-darwin11",
+                        "archiveFileName": "avr-gcc-4.8.1-arduino5-i386-apple-darwin11.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-i386-apple-darwin11.tar.bz2"
+                    },
+                    {
+                        "size": "27093036",
+                        "checksum": "SHA-256:9054fcc174397a419ba56c4ce1bfcbcad275a6a080cc144905acc9b0351ee9cc",
+                        "host": "x86_64-linux-gnu",
+                        "archiveFileName": "avr-gcc-4.8.1-arduino5-x86_64-pc-linux-gnu.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-x86_64-pc-linux-gnu.tar.bz2"
+                    },
+                    {
+                        "size": "25882375",
+                        "checksum": "SHA-256:7648b7f549b37191da0b0be53bae791b652f82ac3cb4e7877f85075aaf32141f",
+                        "host": "i686-linux-gnu",
+                        "archiveFileName": "avr-gcc-4.8.1-arduino5-i686-pc-linux-gnu.tar.bz2",
+                        "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-i686-pc-linux-gnu.tar.bz2"
+                    },
+                    {
+                        "size": "46044779",
+                        "checksum": "SHA-256:d4303226a7b41d3c445d901b5aa5903458def3fc7b7ff4ffef37cabeb37d424d",
+                        "host": "i686-mingw32",
+                        "archiveFileName": "avr-gcc-4.8.1-arduino5-i686-mingw32.zip",
+                        "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-i686-mingw32.zip"
+                    }
+                ]
+            }
+
+      ]
+    }
+  ]
+}
